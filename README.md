@@ -1,1 +1,1 @@
-Youtube video searcher with React
+Youtube video searcher made with React
