@@ -5,3 +5,5 @@ import App from "./components/App";
 require("dotenv").config();
 
 ReactDOM.render(<App />, document.getElementById("root"));
+
+//index.js
